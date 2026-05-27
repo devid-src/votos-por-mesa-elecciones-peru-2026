@@ -1,16 +1,6 @@
 # Documentación del Dataset de Mesas de Votación - ONPE
 
-## 💚 Apoya este Proyecto
-
-Si esta investigación electoral te ha sido útil, considera hacer una donación voluntaria a través de Yape:
-
-<div align="center">
-<img src="yape.jpeg" alt="QR Yape - Donaciones" width="300" height="300">
-</div>
-
-**Paga aquí con Yape** - Cualquier aporte es bienvenido
-
----
+--
 
 ## Descripción General
 
@@ -107,4 +97,3 @@ Este dataset es el resultado de la combinación de dos fuentes de datos:
 Para consultas, sugerencias o reportar errores:
 
 - **Email**: devid_src@proton.me
-- **Twitter**: [@Sin_nombre_peru](https://twitter.com/Sin_nombre_peru)
